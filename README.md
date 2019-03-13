@@ -1,5 +1,5 @@
 "# PyCalc" 
-- Pyton Calculator
+- Standard Python Calculator
 - Created with Kivy GUI
--https://kivy.org/#home
+- https://kivy.org/#home
 
