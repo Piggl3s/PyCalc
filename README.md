@@ -3,4 +3,4 @@
 - Created with Kivy GUI
 - https://kivy.org/#home
 
-- Admin Button and features not yet working
+- Admin Button and features not funtioning
